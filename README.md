@@ -1,4 +1,6 @@
-# Convolutional Autoencoder for Image Denoising
+## EX.NO:07
+## DATE:14.11.2022
+# <p align="center">Convolutional Autoencoder for Image Denoising
 
 ## AIM
 
@@ -35,7 +37,7 @@ Plot the predictions for visualization.
 ## PROGRAM
 ```python3
 Developed by: Prasannakumar M
-Register no.: 212220230035
+Register no: 212220230035
 
 from tensorflow import keras
 from tensorflow.keras import layers
